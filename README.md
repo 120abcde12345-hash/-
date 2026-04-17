@@ -1,7 +1,7 @@
 # 分論(Group Base Theory)
 
 ### 定義: 群底 (Group Base)
-$$(G, '')$$ を群とし、$$(G^n, ')$$ が存在するとする。任意の要素 $v, \upsilon \in G^n$ に関して、以下の演算を定義する。
+$$(G, '')$$ を群とし、 $(G^n, ')$  が存在するとする。任意の要素 $v, \upsilon \in G^n$ に関して、以下の演算を定義する。
 $$v' \upsilon = (f_i(v, \upsilon)) \quad (i=1, 2, \dots, n)$$
 ここで、$G$ の部分集合 $S$ に対して、$S$ と演算 $''$ によって生成されるすべての要素の集合を $\langle S, '' \rangle$ と表記し、任意のベクトル$w$のすべての成分の集合を$EL(w)$と表記するとき、各成分の関数 $f_i$ は以下を満たすものとする。
 $$f_i : (v, \upsilon) \to \langle \text{EL}(v) \cup \text{EL}(\upsilon), '' \rangle$$
